@@ -1,0 +1,2 @@
+# DSM_Numpy1_Assignment6.1
+DSM_Numpy1_Assignment6.1_Satish_Doiphode
